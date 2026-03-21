@@ -14,11 +14,11 @@ const products = [
   {
     icon: Headphones,
     name: 'SunoSekho',
-    tagline: 'AI audio learning in 12 Indian languages — summaries, stories, podcasts, and debates.',
-    status: 'Coming Soon',
+    tagline: 'AI audio learning in 12 Indian languages — summaries, stories, podcasts, and debates. Built with Flutter, FastAPI, and OpenAI TTS. 100% coded with Claude Code.',
+    status: 'Demo',
     statusColor: 'bg-gold/15 text-brown-accent',
-    tags: ['EdTech', 'Audio AI', 'Indic Languages'],
-    href: 'https://sunosekho.com',
+    tags: ['EdTech', 'Audio AI', 'Indic Languages', 'Flutter'],
+    href: 'https://www.linkedin.com/feed/update/urn:li:activity:7435920729587707904/',
   },
   {
     icon: FileText,
