@@ -4,6 +4,7 @@ import About from './components/About'
 import Products from './components/Products'
 import Experience from './components/Experience'
 import Research from './components/Research'
+import Blog from './components/Blog'
 import Content from './components/Content'
 import Connect from './components/Connect'
 import Footer from './components/Footer'
@@ -18,6 +19,7 @@ function App() {
         <Products />
         <Experience />
         <Research />
+        <Blog />
         <Content />
         <Connect />
       </main>

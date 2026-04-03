@@ -6,7 +6,7 @@ const navLinks = [
   { label: 'Products', href: '#products' },
   { label: 'Research', href: '#research' },
   { label: 'Content', href: '#content' },
-  { label: 'Blog', href: 'https://aiwithaditya.odoo.com/blog', external: true },
+  { label: 'Blog', href: '#blog' },
 ]
 
 function Navbar() {
