@@ -2,7 +2,7 @@
 
 Personal portfolio built with React, Vite, and Tailwind CSS. A single-page site showcasing products, AI research, experience, and content.
 
-**Live:** [adityabhatt.dev](https://adityabhatt.dev) (or wherever you deploy it)
+**Live:** [aiwalaaditya.com](https://aiwalaaditya.com)
 
 ## Tech Stack
 
