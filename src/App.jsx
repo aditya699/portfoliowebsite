@@ -6,6 +6,8 @@ import Experience from './components/Experience'
 import Research from './components/Research'
 import Blog from './components/Blog'
 import Content from './components/Content'
+import Resources from './components/Resources'
+import Mentorship from './components/Mentorship'
 import Connect from './components/Connect'
 import Footer from './components/Footer'
 
@@ -21,6 +23,8 @@ function App() {
         <Research />
         <Blog />
         <Content />
+        <Resources />
+        <Mentorship />
         <Connect />
       </main>
       <Footer />
