@@ -44,7 +44,7 @@ function Hero() {
           className="inline-flex items-center gap-2 bg-white rounded-full px-4 py-1.5 text-sm text-brown-muted border border-border shadow-card"
           variants={itemVariants}
         >
-          AI Engineer · Builder · Aspiring Founder
+          AI Engineer · Builder
         </motion.span>
 
         {/* Main quote */}

@@ -37,7 +37,7 @@ function About() {
               <Flame className="w-5 h-5 text-gold" />
             </div>
             <span className="text-xs font-medium px-3 py-1 rounded-full bg-gold/15 text-brown-accent">
-              Builder &amp; Aspiring Founder
+              Builder
             </span>
           </div>
 
