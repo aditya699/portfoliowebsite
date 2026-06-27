@@ -1,6 +1,7 @@
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
+import LiveProducts from './components/LiveProducts'
 import Products from './components/Products'
 import Experience from './components/Experience'
 import Research from './components/Research'
@@ -18,6 +19,7 @@ function App() {
       <main>
         <Hero />
         <About />
+        <LiveProducts />
         <Products />
         <Experience />
         <Research />

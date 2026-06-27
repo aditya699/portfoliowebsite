@@ -1,25 +1,7 @@
 import { motion } from 'framer-motion'
-import { ArrowUpRight, Stethoscope, Headphones, Video, Brain, FileText, MessageCircle, LayoutDashboard, Shield, ClipboardList } from 'lucide-react'
+import { ArrowUpRight, Headphones, Video, Brain, FileText, MessageCircle, LayoutDashboard, Shield } from 'lucide-react'
 
 const products = [
-  {
-    icon: ClipboardList,
-    name: 'SurveyAgent',
-    tagline: 'Open-source AI survey platform — conversational interviews that adapt, probe deeper, and deliver rich insights at scale.',
-    status: 'Live',
-    statusColor: 'bg-green-100 text-green-700',
-    tags: ['Open Source', 'AI Surveys', 'Conversational'],
-    href: 'https://getsurveyagent.com/',
-  },
-  {
-    icon: Stethoscope,
-    name: 'PresGenie',
-    tagline: 'AI prescription writing platform for doctors.',
-    status: 'Live',
-    statusColor: 'bg-green-100 text-green-700',
-    tags: ['Healthcare', 'AI', 'SaaS'],
-    href: 'https://www.presgenie.in/',
-  },
   {
     icon: Headphones,
     name: 'SunoSekho',

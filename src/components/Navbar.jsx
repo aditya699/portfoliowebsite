@@ -3,6 +3,7 @@ import { motion } from 'framer-motion'
 import { Sparkles, ArrowRight } from 'lucide-react'
 
 const navLinks = [
+  { label: 'Live', href: '#live-products' },
   { label: 'Products', href: '#products' },
   { label: 'Research', href: '#research' },
   { label: 'Content', href: '#content' },
