@@ -44,7 +44,7 @@ function Hero() {
           className="inline-flex items-center gap-2 bg-white rounded-full px-4 py-1.5 text-sm text-brown-muted border border-border shadow-card"
           variants={itemVariants}
         >
-          AI Engineer & Builder
+          AI Engineer · Builder · Aspiring Founder
         </motion.span>
 
         {/* Main quote */}
@@ -86,7 +86,7 @@ function Hero() {
           className="text-base sm:text-lg md:text-xl text-brown-muted mt-6 sm:mt-8 max-w-xl mx-auto leading-relaxed"
           variants={itemVariants}
         >
-          I&rsquo;m Aditya Bhatt. I build AI products, train language models, and ship enterprise systems &mdash; from India.
+          I&rsquo;m Aditya Bhatt. I build AI products, train language models, and ship enterprise systems &mdash; from India. And on the side, I&rsquo;m quietly building toward something of my own.
         </motion.p>
 
         {/* CTA Buttons */}

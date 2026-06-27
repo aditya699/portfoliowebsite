@@ -37,19 +37,21 @@ function About() {
               <Flame className="w-5 h-5 text-gold" />
             </div>
             <span className="text-xs font-medium px-3 py-1 rounded-full bg-gold/15 text-brown-accent">
-              Curious Learner
+              Builder &amp; Aspiring Founder
             </span>
           </div>
 
           <p className="text-brown text-base sm:text-lg leading-relaxed">
             I&rsquo;m a statistics graduate turned AI engineer who&rsquo;d rather build something that doesn&rsquo;t work yet than play it safe with something that already does.
-            I started with Power BI dashboards and SQL, got curious about what sits underneath the data, and fell down the rabbit hole of language models, agents, and training neural networks from scratch.
+            I started with Power BI dashboards and SQL, got curious about what sits underneath the data, and went all the way down &mdash; to autonomous agents, MCP, and training language models from scratch.
           </p>
           <p className="text-brown-muted text-base sm:text-lg leading-relaxed mt-4">
-            That curiosity took me from building chatbots at a consulting firm to shipping production AI systems at McCormick, from self-funding research into Indic-language LLMs to launching PresGenie for doctors.
-            I gave talks at IIT Patna and Delhi University, won a hackathon at IIIT Hyderabad, made it to the Top 5 at the Google Gemini Hackathon, and built a chatbot that got 7,200 requests in its first week.
+            That curiosity took me from BI dashboards at a consulting firm to shipping production AI at McCormick &mdash; multi-agent data-science systems, MCP servers that fuse a dozen enterprise tools into one interface, and RAG pipelines now used by 13,000+ employees.
+            On my own time I self-fund research into Indic-language LLMs, train transformers from scratch to validate scaling laws, and ship products people actually use: PresGenie for doctors, AICollegeBuddy for CS students, and SurveyAgent, an open-source AI interviewer.
           </p>
           <p className="text-brown-muted text-base sm:text-lg leading-relaxed mt-4">
+            Along the way I won my first hackathon at IIIT Hyderabad, placed Top 5 at the Google Gemini Hackathon, gave talks at IIT Patna and Delhi University, and watched MedPrepAI cross 60 users in under 24 hours with zero marketing.
+            Each of those is a small bet &mdash; and the bigger one is my own: I&rsquo;m building products and ventures I want to grow into a company of my own.
             The thread through all of it? I&rsquo;m willing to be bad at something new long enough to become good at it. That&rsquo;s the whole philosophy.
           </p>
         </motion.div>
